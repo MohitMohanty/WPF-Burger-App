@@ -1,0 +1,15 @@
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\bin\Debug\BurgerApp.exe.config
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\bin\Debug\BurgerApp.exe
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\bin\Debug\BurgerApp.pdb
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\obj\Debug\BurgerApp.csproj.AssemblyReference.cache
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\obj\Debug\MainWindow.g.cs
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\obj\Debug\App.g.cs
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\obj\Debug\BurgerApp_MarkupCompile.cache
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\obj\Debug\BurgerApp_MarkupCompile.lref
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\obj\Debug\MainWindow.baml
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\obj\Debug\BurgerApp.g.resources
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\obj\Debug\BurgerApp.Properties.Resources.resources
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\obj\Debug\BurgerApp.csproj.GenerateResource.cache
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\obj\Debug\BurgerApp.csproj.CoreCompileInputs.cache
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\obj\Debug\BurgerApp.exe
+C:\Users\mohit\source\repos\BurgerApp\BurgerApp\obj\Debug\BurgerApp.pdb
